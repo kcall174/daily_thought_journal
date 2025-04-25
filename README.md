@@ -1,2 +1,3 @@
-<h1> Daily Thought Journal</h1>
-** using flask and python **
+## Daily Thought Journal
+Using Flask and Python
+
