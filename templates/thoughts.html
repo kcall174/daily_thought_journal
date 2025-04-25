@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Thoughts</title>
+</head>
+<body>
+    <h1>Your Saved Thoughts</h1>
+    <ul>
+        {% for t in thoughts %}
+            <li>{{ t }}</li>
+        {% endfor %}
+    </ul>
+    <a href="/">Add another thought</a>
+</body>
+</html>
